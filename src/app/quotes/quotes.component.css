@@ -1,0 +1,15 @@
+h3{
+    color: brown;
+
+}
+.list-quote{
+    background: coral;
+}
+.form-quote{
+    background: darkgoldenrod;
+}
+.card-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+}
