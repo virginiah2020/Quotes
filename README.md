@@ -1,6 +1,21 @@
-# Quote1
+# QuoteApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This project was generated with typesript and Angular.
+
+## Contributor
+
+Virginiah Wamuyu
+
+## Technology Used
+ - HTML-used it for displaying the content.
+ - CSS-used it  and bootstrap for styling the webpage
+ - JavaScript - used it and the Jquery library to achieve interactivity
+
+# License and Copyright information.
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © <a href="#" target="_blank">Virginiah Wamuyu</a>.
 
 ## Development server
 
@@ -25,3 +40,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* ###### @ vancyvy254@gmail.com
