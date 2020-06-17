@@ -1,6 +1,6 @@
 # QuoteApp
 
-This project was generated with typesript and Angular.
+This project was created with typesript and Angular 8 and enables one to generate quotes at any given time.
 
 ## Contributor
 
